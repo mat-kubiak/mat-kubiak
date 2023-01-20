@@ -56,9 +56,12 @@ bindsym $mod+Return exec i3-sensible-terminal
 # KILL
 bindsym $mod+Shift+q kill
 
-# ROFI DMENU
+# ROFI
 bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 bindcode $mod+Shift+40 exec "rofi -modi drun, run -show run"
+
+# SCREEN SNIP
+bindsym $mod+Shift+s exec "spectacle -r"
 
 # CHANGE FOCUS
 bindsym $mod+Left focus left

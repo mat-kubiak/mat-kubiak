@@ -2,6 +2,8 @@
 
 ### Hi! 👋 I'm an IT student from Lodz University of Technology in Poland.
 
+Dots: [here](https://github.com/The-Qubic-One/Dots)
+
 ![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=The-Qubic-One&show_icons=true&theme=github_dark&hide_border=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Qubic-One&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 

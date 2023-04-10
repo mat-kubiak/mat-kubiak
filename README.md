@@ -2,24 +2,12 @@
 
 ### Hi! 👋 I'm an IT student from Lodz University of Technology in Poland.
 
-Dots: [here](https://github.com/The-Qubic-One/Dots)
+My strong sides include Operating System Architectures, Graphical Programming and _general code-tidiness_
+
+I enjoy difficult hobbies, e.g. Martial Arts, Particle Physics or Language Learning, even though _I wouldn't consider myself any expert_.
+For a lighter free time I usually read sci-fi books or watch movies.
+
+For desktop configuration dotfiles click [here](https://github.com/The-Qubic-One/Dots)
 
 ![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=The-Qubic-One&show_icons=true&theme=github_dark&hide_border=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Qubic-One&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-**Pharosss/Pharosss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

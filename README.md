@@ -4,7 +4,7 @@
 
 My strong sides include Desktop Development, Operating System Architectures, Graphical Programming and _general code-tidiness_
 
-I enjoy difficult hobbies, e.g. Martial Arts, Particle Physics or Language Learning, even though _I wouldn't consider myself any expert_.
+I enjoy difficult hobbies, e.g. bodyweight training, learning modern physics or language learning, even though _I wouldn't consider myself any expert_.
 For a lighter free time I usually read sci-fi books or watch movies.
 
 ### Links

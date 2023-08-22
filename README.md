@@ -6,7 +6,7 @@ I enjoy difficult hobbies, e.g. bodyweight training, learning modern physics or 
 For a lighter free time I usually read sci-fi books or watch movies.
 
 ### Technologies I'm using:
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,cmake,java,python,git,linux,bash,)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,java,python,godot,git,linux,bash,)](https://skillicons.dev)
 
 ### I'm currently working on:
 * __[HyprArch](https://github.com/mat-kubiak/hyprarch)__ - Installation script for Hyprland-based desktop environment on Arch Linux.

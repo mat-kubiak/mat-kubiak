@@ -4,7 +4,7 @@ I'm a passionate IT student at Lodz University of Technology in Poland.
 I want to try absolutely everything I can, but I especially came to like backend web development, Linux, and graphics programming.
 
 ### Technologies I'm using:
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,java,python,godot,git,linux,bash,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,cmake,java,python,godot,git,linux,bash,)](https://skillicons.dev)
 
 ### I'm currently working on:
 * __[OpenGL Mini Engine](https://github.com/mat-kubiak/OpenGL-Mini-Engine)__ - OpenGL graphics engine written in C++ and the Premake 5 build system.

@@ -1,7 +1,7 @@
 ## Hello There! 👋
 
 I'm a passionate IT student at Lodz University of Technology in Poland.
-I want to try absolutely everything I can, but I especially came to like backend web development, Linux, and graphics programming.
+I like to challenge myself to try a bit from everything, but I especially came to like backend web development, Linux, and graphics programming.
 
 ### Technologies I'm using:
 [![My Skills](https://skillicons.dev/icons?i=js,cpp,cmake,java,python,godot,git,linux,bash,)](https://skillicons.dev)

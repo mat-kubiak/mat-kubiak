@@ -13,7 +13,7 @@ I always challenge myself to try a bit of everything, but the areas I'm especial
 
 * __[Bus Connector](https://github.com/mat-kubiak/bus-connector)__ - Bus Ticket Seller backend app built with Java Spring Boot, using a MySQL database and deployed in Docker containers.
 * __[Terminal Snake](https://github.com/mat-kubiak/Terminal-Snake)__ - Terminal snake game clone made for Lodz University of Technology OOP Project. Made in C++ with Ncurses and Boost libraries.
-* __[Task Planner](https://github.com/mat-kubiak/task-planner)__ - Scalable TODO web app bulit with MySql database and Spring Boot microservices.
+* __[Task Planner](https://github.com/mat-kubiak/task-planner)__ (under construction) - Scalable TODO web app bulit with MySql database and Spring Boot microservices.
 
 ![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=mat-kubiak&show_icons=true&theme=github_dark&hide_border=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mat-kubiak&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
